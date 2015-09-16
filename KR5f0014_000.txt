@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 02:18:27.083545
+# -*- mode: mandoku-view -*-
 #+TITLE: 孫子注解
-#+PROPERTY: DZID  DZ1180
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，27—436 十三卷 太清部
+#+DATE: 2015-08-29 02:18:40
+#+PROPERTY:  LASTPB <PB KR5f0014_SJB_013-270566b>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: JUAN 0
+¶¶¶¶¶¶¶¶¶¶
+
